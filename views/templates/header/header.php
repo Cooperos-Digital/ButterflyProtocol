@@ -27,7 +27,7 @@
 </div>
 <div id="main_menu_mobile" class="layout_main_menu_mobile">
     <nav>
-        <a href="./organization.htmlphp" class="menu_link">Organization</a>
+        <a href="./organization.html" class="menu_link">Organization</a>
         <a href="./resources.html" class="menu_link">Resources</a>
         <a target="_blank" href="https://medium.com/bproto" class="menu_link">Blog</a>
         <a href="./token.html" class="menu_link">Token</a>
